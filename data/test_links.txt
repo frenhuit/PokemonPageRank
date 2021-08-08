@@ -1,0 +1,5 @@
+https://local.test/home	https://local.test/about https://local.test/download https://local.test/pricing https://local.test/career
+https://local.test/about	https://local.test/home
+https://local.test/download	https://local.test/home
+https://local.test/pricing	https://local.test/home
+https://local.test/career	https://local.test/home
